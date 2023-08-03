@@ -2260,6 +2260,20 @@ input, select, textarea {
 				background-color: #e8edec;
 			}
 
+			.info .icons {
+				color: #41484c;
+				-moz-transition: color 0.35s ease-in-out;
+				-webkit-transition: color 0.35s ease-in-out;
+				-ms-transition: color 0.35s ease-in-out;
+				transition: color 0.35s ease-in-out;
+			}
+			.project {
+				font-weight: 600;
+			}
+			.description {
+				padding: 0 5px;
+			}
+
 /* Wide */
 
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
